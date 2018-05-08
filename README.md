@@ -1,3 +1,18 @@
+
+-- UNSUPPORTED --
+=================
+
+This is a public fork of https://github.com/afklm/crowd which is now unmaintained. This cookbook should not be used by anyone. This fork only has minor modifications made for this org's needs.
+
+
+
+
+
+
+
+-------------------------------------------------------
+
+
 Crowd Cookbook
 ==============
 [![Chef cookbook](https://img.shields.io/cookbook/v/crowd.svg)](https://supermarket.chef.io/cookbooks/crowd)
